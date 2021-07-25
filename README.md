@@ -4,8 +4,6 @@
 
 > Microverse trial review  first project. In this project we master the tools and best practices learn at Microverse
 
-![screenshot](./app_screenshot.png)
-
 Additional description about the project and its features.
 
 ## Built With
@@ -17,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://icebox827.github.io/Hello-Microverse/)
 
 ## Getting Started
 
@@ -44,7 +42,7 @@ Get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/icebox827/Hello-Microverse/issues/3).
 
 ## Show your support
 
