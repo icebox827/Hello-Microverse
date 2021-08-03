@@ -21,6 +21,8 @@ Additional description about the project and its features.
 
 Get a local copy up and running follow these simple example steps.
 
+- Open a terminal and run `git clone https://github.com/icebox827/Hello-Microverse.git`
+
 ### Prerequisites
 
 - Text editor
